@@ -1,0 +1,7 @@
+UDEMY NOTES
+
+www.devdocs.io - parts of html
+docs.emmet.io/cheat-sheet/
+unicode-table.com
+developer.mozilla.org - other elements and sub elements
+github
